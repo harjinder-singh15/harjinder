@@ -1,0 +1,1 @@
+jab hum git add html file then git status (use "git rm --cached <file>..." to unstage).
